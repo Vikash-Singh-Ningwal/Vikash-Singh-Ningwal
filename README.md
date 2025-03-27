@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
+Hi there! I'm Vikash Singh Ningwal, a passionate developer and tech enthusiast.
+## Programming & Core Concepts
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776-AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<!--
-**Vikash-Singh-Ningwal/Vikash-Singh-Ningwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## AI & Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
