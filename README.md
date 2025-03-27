@@ -1,60 +1,64 @@
-# Welcome to My GitHub Profile! 👋
-Hi there! I'm Vikash Singh Ningwal, a passionate developer and tech enthusiast.
-## Programming & Core Concepts
+# Hey there! I'm Vikash Ningwal 👋  
+🎓 **UG III Yr. Information Technology Engineering** | SGSITS, Indore  
+📧 **Email:** [vikash.ningwal04052004@gmail.com](mailto:vikash.ningwal04052004@gmail.com) | 📱 **Mobile:** +91 8085660391  
+
+I'm a passionate developer with a focus on web development, app development, and creative design. Currently working on projects like a **Women’s Safety App** and web design for IDSSS. I also have a knack for graphic design, with **11k Instagram followers** for my custom templates!  
+
+---
+
+## 🛠️ Skills & Technologies  
+### Programming Languages  
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776-AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-## Cloud & DevOps
+### Web Development  
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## AI & Machine Learning
+### Tools & Platforms  
 <p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-## Large Language Models (LLMs)
-<p align="left">
-<img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LLAMA-FF45-0025?style=for-the-badge" />
-</p>
-## Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-# Welcome to My GitHub Profile! 👋
-Hi there! I'm Vikash Singh Ningwal, a passionate developer and tech enthusiast.
-
-## Programming & Core Concepts
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776-AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+---
 
-## AI & Machine Learning
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+## 🌟 Highlights  
+- 🏆 Scored **75 percentile** in JEE Mains (2022).  
+- 🎨 Gained **11k Instagram followers** by designing custom graphic templates for events.  
+- 💻 Developed a **Resume Builder** web app using HTML, CSS, and JavaScript.  
+- 📱 Currently building **SafeZone**, a women’s safety app using Flutter.  
+- 🌐 Working as a **Web Design Intern** at IDSSS, enhancing UX and accessibility.  
 
-## Connect with Me
+---
+
+## 📚 Courses & Interests  
+- **Core Subjects:** Data Structures, DBMS, Computer Networks, Web Engineering  
+- **Interests:** App Development, Web Design, Graphic Design, Photography  
+
+---
+
+## 🏅 Achievements & Roles  
+- **School Head Boy** (2021-2022) – Led initiatives and organized events.  
+- **2nd Place** in a drawing competition by Patrika Newspaper (2017).  
+- Participated in college events like **PIXSHALA** (Photography) and **KHOJ** (Video Editing).  
+
+---
+
+## 📬 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:vikash.ningwal04052004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
