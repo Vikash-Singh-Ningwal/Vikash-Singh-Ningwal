@@ -1,6 +1,6 @@
 # Hey there! I'm Vikash Ningwal 👋  
 🎓 **UG III Yr. Information Technology Engineering** | SGSITS, Indore  
-📧 **Email:** [vikash.ningwal04052004@gmail.com](mailto:vikash.ningwal04052004@gmail.com) | 📱 **Mobile:** +91 8085660391  
+📧 **Email:** [vikash.ningwal04052004@gmail.com](mailto:vikash.ningwal04052004@gmail.com) 
 
 I'm a passionate developer with a focus on web development, app development, and creative design. Currently working on projects like a **Women’s Safety App** and web design for IDSSS. I also have a knack for graphic design, with **11k Instagram followers** for my custom templates!  
 
@@ -36,12 +36,10 @@ I'm a passionate developer with a focus on web development, app development, and
 ---
 
 ## 🌟 Highlights  
-- 🏆 Scored **75 percentile** in JEE Mains (2022).  
 - 🎨 Gained **11k Instagram followers** by designing custom graphic templates for events.  
 - 💻 Developed a **Resume Builder** web app using HTML, CSS, and JavaScript.  
 - 📱 Currently building **SafeZone**, a women’s safety app using Flutter.  
-- 🌐 Working as a **Web Design Intern** at IDSSS, enhancing UX and accessibility.  
-
+- 🌐 Working as a **Web Design Intern** at IDSSS, enhancing UX and accessibility.
 ---
 
 ## 📚 Courses & Interests  
@@ -60,5 +58,7 @@ I'm a passionate developer with a focus on web development, app development, and
 ## 📬 Connect with Me  
 <p align="left">
 <a href="mailto:vikash.ningwal04052004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikash-singh-ningwal-596289261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
